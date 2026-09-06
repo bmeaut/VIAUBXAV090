@@ -1,4 +1,4 @@
-# A Bevezetés a Rust programozásba (VIAUBXAV090-00) tárgyhoz tartozó repository.
+# A Bevezetés a Rust programozásba (VIAUBXAV090-00) tárgyhoz tartozó repository
 
 A tárgy anyagai (diák és feladatok) a félév során ide kerülnek majd fel.
 
