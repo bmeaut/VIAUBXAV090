@@ -10,6 +10,7 @@ A rendszerrel szemben támasztott követelmények:
   - Number(f64)
   - Bool(bool)
   - UUID(uuid)
+  - Null
 - A táblák sémáját úgy tároljuk, hogy több tábla is hivatkozhasson rájuk
 - sorok beszúrása, lekérdezése, (+3 zh pontért táblák illesztése) cél
 - egy adott azonosító alapján lehessen sort lekérdezni, az értéket generikusan kinyerni
@@ -22,6 +23,7 @@ A rendszerrel szemben támasztott követelmények:
 - A táblák kezelésére is vezessünk be struktúrát
 - Az értékek kinyerésére vezessünk be generikus függvényt
 - Az oszlopok átlagolásához, medián kiszámításához vezessünk be külön függvényeket
+- Célszerű lehet a `Debug, PartialEq, Clone` derive-ok használata
 
 Checkpointok:
 - A szükséges adatstruktúrák létrehozása
