@@ -8,7 +8,7 @@ Már meglévő telepítés esetén ajánlott az eszközkészlet frissítése a `
   - A laborgépeken ez adott
   - Alternatívaként használható a GNU toolchain, a következő lépésben leírt módon
 - a Rust eszközkészletére (`cargo`, `rustc`, toolchainek, stb.)
-  -  Ezeket a [`rustup`](rustup.rs) eszközzel telepítsük
+  -  Ezeket a [`rustup`](https://rustup.rs) eszközzel telepítsük
   -  A telepítés során az alapértelmezett beállítások alapvetően jók
      -  Ha Windows telepítés során valaki nem szeretne MSVC-t telepíteni, a `x86_64-pc-windows-gnu` host triple segítségével telepítheti a gnu windows toolchaint
 - Egy tetszőleges IDE-re, laborban ez a VS Code és a [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) kiegészítő párosa lesz
