@@ -20,3 +20,4 @@ target
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 /code/CppPortW1/.vs
+/w07 - Closures, Multithreading/W07/.idea
